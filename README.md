@@ -2,7 +2,7 @@
 
 # 성경 앱 (원데이 성서 바이블)
 
-<img width = "300" src ="https://github.com/toast-ceo/Flutter_OneDayBible/blob/main/File/Screenshot_1624889629.png?raw=true">
+<img width = "300" src ="https://github.com/toast-ceo/Flutter_OneDayBible/blob/main/File/Untitled.png?raw=true">
 
 - 성서 바이블 마스코트
 
@@ -54,4 +54,4 @@
 - 5초 동안 보여주며, 자동으로 다음 페이지로 넘어갑니다
 - 메뉴 형식은 슬라이드 방식, 버튼 방식 2가지 방식이 있습니다
 
-![%E1%84%8B%E1%85%B2%E1%84%82%E1%85%B5%E1%84%8F%E1%85%B3%20%E1%84%87%E1%85%AE%E1%86%A8%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%86%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%20b4055b98af90460aa81f951a70832a29/Screenshot_1624889629.png](%E1%84%8B%E1%85%B2%E1%84%82%E1%85%B5%E1%84%8F%E1%85%B3%20%E1%84%87%E1%85%AE%E1%86%A8%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%86%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%20b4055b98af90460aa81f951a70832a29/Screenshot_1624889629.png)
+<img width = "300" src ="https://github.com/toast-ceo/Flutter_OneDayBible/blob/main/File/Screenshot_1624889629.png?raw=true">
