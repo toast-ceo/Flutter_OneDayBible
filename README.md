@@ -2,7 +2,7 @@
 
 # 성경 앱 (원데이 성서 바이블)
 
-(https://github.com/toast-ceo/Flutter_OneDayBible/blob/main/File/Screenshot_1624889629.png?raw=true)
+<img width = "300" src =https://github.com/toast-ceo/Flutter_OneDayBible/blob/main/File/Screenshot_1624889629.png?raw=true>
 
 - 성서 바이블 마스코트
 
