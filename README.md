@@ -48,8 +48,7 @@
 
 - 재밌게 만들 수 있음에 팀원들에게 감사를 드리며, 사람들이 손쉽고 간편하게 일상속에서 성경을 읽고, 말씀을 곁에 두었음하는 마음으로 개발에 임했습니다. 결과물이 만족스럽게 나온 것 같아 만족스럽고. 이에 하나님께 감사한 마음입니다.
 
-<img width = "300" src ="
-https://github.com/toast-ceo/Flutter_OneDayBible/blob/main/File/bible_first.gif?raw=true">
+<img width = "300" src ="https://github.com/toast-ceo/Flutter_OneDayBible/blob/main/File/bible_first.gif?raw=true">
 
 - 해당 앱을 시작할 때, 성경 구절을 보여줍니다
 - 5초 동안 보여주며, 자동으로 다음 페이지로 넘어갑니다
